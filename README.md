@@ -10,4 +10,4 @@ Source code of my submissions to Topcoder Marathons.
 * **MM123** (Jewels) - Feb/21 - **1st** of 67
 * **MM122** (SuperMinesweeper) - Dec/20 - 7th of 84
 
-PS: Statistics are still incomplete for TCO21 Final (1 competitor missing) and MM130 (3 competitors missing).
+PS: Statistics are still incomplete for MM130 (3 competitors missing).
